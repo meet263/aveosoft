@@ -1,7 +1,7 @@
 # aveosoft
 
 Installation Guide:<br>
-Step-1: Download 'aveosoft' folder. <br>
+Step-1: Download 'aveosoft-master' and from that folder copy 'aveosoft' folder. <br>
 Step-2: Put that folder into '../XAMPP/htdocs/' directory.<br>
 Step-3: You have to add '.htaccess' file in main directory named 'aveosoft' along with 'index.php' file.<br>
 Step-4: Import Database 'aveosoft' to phpmyadmin.<br>
