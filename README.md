@@ -3,7 +3,7 @@
 Installation Guide:<br>
 Step-1: Download 'aveosoft' folder. <br>
 Step-2: Put that folder into '../XAMPP/htdocs/' directory.<br>
-Step-3: Ypiu have to add '.htaccess' file in main directory named 'aveosoft' along with 'index.php' file.<br>
+Step-3: You have to add '.htaccess' file in main directory named 'aveosoft' along with 'index.php' file.<br>
 Step-4: Import Database 'aveosoft' to phpmyadmin.<br>
 Step-5: Open your browser and type "localhost/aveosoft/" it will automatically redirected to index page.<br>
 
