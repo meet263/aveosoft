@@ -6,6 +6,11 @@ Step-2: Put that folder into '../XAMPP/htdocs/' directory.<br>
 Step-3: Import Database 'aveosoft' to phpmyadmin.<br>
 Step-4: Open your browser and type "localhost/aveosoft/" it will automatically redirected to index page.<br>
 
+Brief:
+
+--> It is made using PHP(MVC). <br>
+--> I used Bootstrap-4 as a frontend designing.<br>
+
 Task Guide:<br>
 
 There are two task given which are describe below:<br>
